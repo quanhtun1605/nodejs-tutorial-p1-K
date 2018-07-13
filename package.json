@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-tutorial-p1-K",
+  "version": "0.0.0",
+  "description": "Khang's NodeJS Tutorial Part 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurokourou/nodejs-tutorial-p1-K.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurokourou/nodejs-tutorial-p1-K/issues"
+  },
+  "homepage": "https://github.com/kurokourou/nodejs-tutorial-p1-K#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.3"
+  }
+}
